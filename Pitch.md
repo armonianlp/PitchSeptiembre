@@ -8,11 +8,15 @@ Todos hemos sido usuarios, hemos pasado por la incómoda experiencia de llamar a
 
 Hemos vivido en los últimos 20 años la digitalización exponencial en la forma en que nos comunicamos entre nosotros. Quién de aquí no utiliza Whatsapp o algún otro servicio de mensajería? Manda audios, fotos, videos, mensajes. Nuestra digitalización ha ido de la mano con el cambio de las tecnologías, las cuales se han adaptado a nuestra forma de comunicarse y al mismo tiempo la han moldeado. 
 
-¿Qué es lo que proponemos?
+¿Qué es lo que proponemos? Tres cosas:
 
-Primero, aplicar las últimas técnicas de procesamiento de lenguaje y audio para automatizar los actuales procesos de comunicación con los consumidores. Esto permitirá reducir costos y tiempo de implementación de campañas masivas de encuesta, cobranza, o anuncios. Además de extracción valiosa de las conversaciones guardadas (o hablar algo de data mining).
+Primero, el presente. Aplicar las últimas técnicas de procesamiento de lenguaje y audio para automatizar los actuales procesos de comunicación con los consumidores. Esto permitirá reducir hasta en un 75% los costos y tiempo de implementación de campañas masivas de encuesta, cobranza, o anuncios. Además de extracción valiosa de las conversaciones guardadas.
 
-Segundo, sumarnos a la revolución digital que vive la comunicación actual. Para lograr esto nos sumaremos a las plataformas digitales de mayor convocatoria. Buscaremos aplicar nuevamente inteligencia artificial para procesar texto y audio, pero también imágenes y video en un futuro. Queremos que la forma en que la gente interactúa con las empresas sea la misma en que interactúan entre ellos.
+Segundo, el futuro. Sumarnos a la revolución digital que vive la comunicación actual. Para lograr esto nos sumaremos a las plataformas digitales de mayor convocatoria. Buscaremos aplicar nuevamente inteligencia artificial para procesar texto y audio, pero también imágenes y video en un futuro. Queremos que la forma en que la gente interactúa con las empresas sea la misma en que interactúan entre ellos. Nuestra misión es democratizar Siri o Alexa.
 
 Tercero, aprovechar nuestra capacidad de procesamiento semántica para extraer métricas valiosas para las compañías. Analisis de sentimientos, tono de voz, minería de datos y más con el fin de que las compañías puedan tener el pulso de sus usuarios de forma actualizada.
+
+Cobraremos en un comienzo por el desarrollo de proyectos basado en la cantidad de HH que tome cada implementación. La idea es que esta primera etapa madure nuestro producto y nos sirva de primera incursión. Luego de las implementaciones cobraremos un SaaS acorde a la complejidad y valor de lo implementado. En el mediano plazo vislumbranos tener un modelo más longtail y una interfaz con la que las copañías puedan incorporarse a nuestras plataformas.
+
+No pretendemos reinventar la rueda o ganarle a los gigantes tecnológicos angloparlantes en los mismo términos que ellos juegan. Creemos que si apostamos por nichos específicos y por el mercado latinoamericano, con sus dialectos y modismos propios, tenemos una buena oportunidad.
 
