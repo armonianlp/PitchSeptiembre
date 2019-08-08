@@ -18,5 +18,14 @@ Tercero, aprovechar nuestra capacidad de procesamiento semántica para extraer m
 
 Cobraremos en un comienzo por el desarrollo de proyectos basado en la cantidad de HH que tome cada implementación. La idea es que esta primera etapa madure nuestro producto y nos sirva de primera incursión. Luego de las implementaciones cobraremos un SaaS acorde a la complejidad y valor de lo implementado. En el mediano plazo vislumbranos tener un modelo más longtail y una interfaz con la que las copañías puedan incorporarse a nuestras plataformas.
 
-No pretendemos reinventar la rueda o ganarle a los gigantes tecnológicos angloparlantes en los mismo términos que ellos juegan. Creemos que si apostamos por nichos específicos y por el mercado latinoamericano, con sus dialectos y modismos propios, tenemos una buena oportunidad.
+No pretendemos reinventar la rueda o ganarle a los gigantes tecnológicos angloparlantes en los mismo términos que ellos juegan. Creemos que si apostamos por nichos específicos y por el mercado latinoamericano, con sus dialectos y modismos propios, tenemos una buena oportunidad. La especificidad es nuestra mejor arma, tanto en mercado como en los contextos de comunicación que queremos abordar. Por ejemplo en el caso de audio no apostaremos como si lon hacen Google o Amazon por abordar una conversación cualquiera esta sea, sino más bien el obtener y comunicar la información necesaria y suficiente.
 
+Los costos en los que icurriremos estarán enfocados en I+D y en el afianzamiento de nuestros productos y servicios de capacitación para implementar y desarrollar sobre nuestra plataforma. Los costos de hardware también son considerados pero planeamos adicionalmente ofrecer servicios on-premise de modo que nuestros clientes obtengan una mejor latencia y performance.
+
+Para que este proyecto salga adelante deberemos relacionarnos con socios clave como empresas de retail o call centers junto con otras empresas de desarrollos tecnológicos. **(Digevo queda pendiente de como mencionarlo hasta nueva reunión)**
+
+**DEMOSTRACIÓN**
+
+Finalmente, quiénes somos? Somos 4 socios con pasión por la tecnología, compañeros de universidad y con diversas experiencia en hardware y software. Tenemos las ganas y sabemos que tenemos las capacidades para abordar este desafío y más aún si es que ustedes nos brindan su apoyo.
+
+Gracias.
